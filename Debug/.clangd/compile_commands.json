@@ -1,0 +1,7 @@
+[
+   {
+      "directory" : "/Users/yawpremuh/workspace_ccstheia/gpio_input_capture/Debug",
+      "command"   : "clang++ -I\"/Users/yawpremuh/workspace_ccstheia/gpio_input_capture\" -I\"/Users/yawpremuh/workspace_ccstheia/gpio_input_capture/Debug\" -I\"/Users/yawpremuh/ti/mspm0_sdk_2_11_00_07/source/third_party/CMSIS/Core/Include\" -I\"/Users/yawpremuh/ti/mspm0_sdk_2_11_00_07/source\" -isystem\"/Applications/ti/ccs2101/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/Applications/ti/ccs2101/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c++/v1\" -isystem\"/Applications/ti/ccs2101/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/lib/clang/22/include\" -isystem\"/Applications/ti/ccs2101/ccs/tools/compiler/ti-cgt-armllvm_5.1.1.LTS/include/c\" -xc",
+      "file"      : "/Users/yawpremuh/workspace_ccstheia/gpio_input_capture/gpio_input_capture.c"
+   }
+]
